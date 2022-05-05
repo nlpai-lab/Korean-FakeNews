@@ -1,2 +1,0 @@
-entity_features.tsv filter=lfs diff=lfs merge=lfs -text
-user_relationship.tsv filter=lfs diff=lfs merge=lfs -text
